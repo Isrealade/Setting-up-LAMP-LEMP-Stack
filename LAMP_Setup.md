@@ -56,7 +56,9 @@ Verified that Apache is running using the public IP address.
 
 - MySQL Installation
 
+
 Installed MySQL.
+
 ![Installed SQL](images/image-11.png)
 
 
